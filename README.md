@@ -1,2 +1,2 @@
 # structuredProg
-My boyfriend made me do this, he always say the same BS to all his students, then here I am.
+just some structured programming exercises (UFF - 2021.1)
